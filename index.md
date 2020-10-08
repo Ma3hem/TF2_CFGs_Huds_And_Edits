@@ -1,7 +1,7 @@
 <html>
   <body>
     <p>
-    <a href="https://github.com/Ma3hem/TF2_CFGs_Huds_And_Edits/blob/main/Ascent-Hud.zip" download> Ascent-Hud </a>
+    <a href="https://github.com/Ma3hem/TF2_CFGs_Huds_And_Edits/blob/main/Ascent-Hud.zip" Download> Ascent-Hud </a>
     </p>
     <p>
     <a href="https://github.com/Ma3hem/TF2_CFGs_Huds_And_Edits/blob/main/Broesel%20Hud.zip"> Broesel Hud edit </a>
