@@ -1,4 +1,7 @@
 <html>
+  <head>
+    <link rel="stylesheet" href="styles.css">
+  </head>
   <body>
     <p>
     <a href="https://github.com/Ma3hem/TF2_CFGs_Huds_And_Edits/blob/main/Ascent-Hud.zip" download="Ascent-Hud.zip"> Ascent-Hud </a>
