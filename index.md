@@ -7,10 +7,7 @@
     <a href="https://github.com/Ma3hem/TF2_CFGs_Huds_And_Edits/blob/main/Broesel%20Hud.zip"> Broesel Hud edit </a>
     </p>
     <p>
-    <a href="https://github.com/Ma3hem/TF2_CFGs_Huds_And_Edits/blob/main/Garm3n%20TanLight.zip"> Ascent-Hud </a>
-    </p>
-    <p>
-    <a href="https://github.com/Ma3hem/TF2_CFGs_Huds_And_Edits/blob/main/Ascent-Hud.zip"> Garm3n TanLight edit </a>
+    <a href="https://github.com/Ma3hem/TF2_CFGs_Huds_And_Edits/blob/main/Garm3n%20TanLight.zip"> Garm3nTan-Hud </a>
     </p>
     <p>
     <a href="https://github.com/Ma3hem/TF2_CFGs_Huds_And_Edits/blob/main/Grape%20m0rehud.zip"> Grape m0rehud edit </a>
