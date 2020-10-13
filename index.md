@@ -4,7 +4,7 @@
   </head>
   <body>
   <div id="blurbox" class="center">
-	<table>
+	<table class="center">
 		<tr>
 			<th> Huds: </th>
 			<th> Configs: </th>
