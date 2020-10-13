@@ -3,7 +3,7 @@
     <link rel="stylesheet" href="styles.css">
   </head>
   <body>
-  <div id="blurbox" align-content="center">
+  <div id="blurbox" class="center">
 	<table>
 		<tr>
 			<th> Huds: </th>
