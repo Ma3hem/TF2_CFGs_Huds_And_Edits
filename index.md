@@ -56,6 +56,24 @@
     <p class="blocktext">
     <a href="https://github.com/Ma3hem/TF2_CFGs_Huds_And_Edits/blob/main/sunsetcustomcm0re.zip"> sunsetcustomcm0re Hud </a>
     </p>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	<table>
+		<tr>
+			<th> Huds: </th>
+			<th> Configs: </th>
+		</tr>
+		<tr>
+			<td>  <a href="https://github.com/Ma3hem/TF2_CFGs_Huds_And_Edits/blob/main/Ascent-Hud.zip" download="Ascent-Hud.zip"> Ascent-Hud </a> </td>
+		</tr>
+	</table>
     </div>
   </body>
 </html>
