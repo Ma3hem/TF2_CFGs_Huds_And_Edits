@@ -14,8 +14,11 @@ p {
   text-shadow: 1px 1px 1px white;
 }
 
-tr, td {
+tr, th, td {
   width: 75%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
 }
 
 #blurbox {
