@@ -3,10 +3,10 @@
     <link rel="stylesheet" href="styles.css">
   </head>
   <body>
-  <div id="blurbox" class="center">
-	<table class="center">
+  <div id="blurbox">
+	<table>
 		<tr>
-			<th> Huds: </th>
+			<th> <h3>Huds:</h3> </th>
 			<th> Configs: </th>
 		</tr>
 		<tr>
