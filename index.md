@@ -6,8 +6,8 @@
   <div id="blurbox">
 	<table>
 		<tr>
-			<th> <h5>Huds:</h5> </th>
-			<th> <h5>Configs: </h5> </th>
+			<th> <h3>Huds:</h3> </th>
+			<th> <h3>Configs: </h3> </th>
 		</tr>
 		<tr>
 			<td>  <a href="https://github.com/Ma3hem/TF2_CFGs_Huds_And_Edits/blob/main/Ascent-Hud.zip" download="Ascent-Hud.zip"> Ascent-Hud </a> </td>
