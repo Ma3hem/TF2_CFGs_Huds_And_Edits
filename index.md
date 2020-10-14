@@ -3,7 +3,7 @@
     <link rel="stylesheet" href="styles.css">
   </head>
   <body>
-  <div id="blurbox">
+  <div id="blurbox" class="btnhov">
 	<table>
 		<tr>
 			<th> <h3>Huds:</h3> </th>
