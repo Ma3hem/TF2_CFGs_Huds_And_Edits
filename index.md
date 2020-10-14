@@ -10,7 +10,7 @@
 			<th> <h3>Configs: </h3> </th>
 		</tr>
 		<tr>
-			<td>  <button class="btnhov"> <a href="https://github.com/Ma3hem/TF2_CFGs_Huds_And_Edits/blob/main/Ascent-Hud.zip" download="Ascent-Hud.zip"> Ascent-Hud </a> </button> </td>
+			<td class="btnhov"> <a href="https://github.com/Ma3hem/TF2_CFGs_Huds_And_Edits/blob/main/Ascent-Hud.zip" download="Ascent-Hud.zip"> Ascent-Hud </a> </td>
 			<td>  <a href="https://github.com/Ma3hem/TF2_CFGs_Huds_And_Edits/blob/main/Ascent-Hud.zip" download="Ascent-Hud.zip"> Ascent-Hud </a> </td>
 		</tr>
 		<tr>
