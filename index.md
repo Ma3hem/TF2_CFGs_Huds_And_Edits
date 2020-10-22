@@ -7,11 +7,9 @@
 	<table>
 		<tr>
 			<th> <h3>Huds:</h3> </th>
-			<th> <h3>Configs: </h3> </th>
 		</tr>
 		<tr>
 			<td> <a href="https://github.com/Ma3hem/TF2_CFGs_Huds_And_Edits/blob/main/Ascent-Hud.zip" download="Ascent-Hud.zip"> Ascent-Hud </a> </td>
-			<td>  <a href="https://github.com/Ma3hem/TF2_CFGs_Huds_And_Edits/blob/main/Ascent-Hud.zip" download="Ascent-Hud.zip"> Ascent-Hud </a> </td>
 		</tr>
 		<tr>
 			<td> <a href="https://github.com/Ma3hem/TF2_CFGs_Huds_And_Edits/blob/main/Broesel%20Hud.zip"> Broesel Hud edit </a> </td>
@@ -91,6 +89,10 @@
 		<tr>
 			<td>  </td>
 		</tr>
+	</table>
+		<th> <h3>Configs: </h3> </th>
+	<table>
+	
 	</table>
     </div>
   </body>
