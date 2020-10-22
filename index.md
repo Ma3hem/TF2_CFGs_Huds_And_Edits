@@ -90,12 +90,12 @@
 			<td>  </td>
 		</tr>
 	</table>
+		
+	<table>
 		<th> <h3>Configs: </h3> </th>
 		<tr>
 			<td>  <td>
 		</tr>
-	<table>
-	
 	</table>
     </div>
   </body>
