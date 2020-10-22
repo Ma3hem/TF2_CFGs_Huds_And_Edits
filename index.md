@@ -94,7 +94,7 @@
 	<table>
 		<th> <h3>Configs: </h3> </th>
 		<tr>
-			<td>  </td>
+			<td> <a href="https://github.com/Ma3hem/TF2_CFGs_Huds_And_Edits/blob/main/OHUD.zip"> OHUD </a> </td>
 		</tr>
 	</table>
     </div>
