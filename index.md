@@ -94,7 +94,7 @@
 	<table>
 		<th> <h3>Configs: </h3> </th>
 		<tr>
-			<td>  <td>
+			<td>  </td>
 		</tr>
 	</table>
     </div>
