@@ -91,6 +91,9 @@
 		</tr>
 	</table>
 		<th> <h3>Configs: </h3> </th>
+		<tr>
+			<td>  <td>
+		</tr>
 	<table>
 	
 	</table>
