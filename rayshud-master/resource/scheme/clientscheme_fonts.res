@@ -1,8 +1,28 @@
 Scheme
 {
-	Fonts
+	Fonts  ADAM.CG PRO
 	{
 		// CUSTOM
+		"ADAMCG56"
+		{
+			"1"
+			{
+				"name"			"ADAM.CG PRO"
+				"tall"			"56"
+				"additive"		"0"
+				"antialias"		"1"
+			}
+		}
+		"ADAMCG32"
+		{
+			"1"
+			{
+				"name"			"ADAM.CG PRO"
+				"tall"			"32"
+				"additive"		"0"
+				"antialias"		"1"
+			}
+		}
 		"AltoneB56"
 		{
 			"1"
@@ -2761,6 +2781,11 @@ Scheme
 		{
 			"font"	"resource/fonts/AltoneTrial-BoldOblique.ttf"
 			"name"	"Altone Trial Bold Oblique"
+		}
+		"12"
+		{
+			"font"	"resource/fonts/ADAM.CG PRO.otf"
+			"name"	"ADAM.CGPRO"
 		}
 	}
 }
