@@ -1,23 +1,63 @@
 Scheme
 {
-	Fonts  ADAM.CG PRO
+	Fonts
 	{
 		// CUSTOM
-		"ADAMCG56"
+		"BalooReg56"
 		{
 			"1"
 			{
-				"name"			"ADAM.CG PRO"
+				"name"			"Baloo-Regular"
 				"tall"			"56"
 				"additive"		"0"
 				"antialias"		"1"
 			}
 		}
-		"ADAMCG32"
+		"BalooReg32"
 		{
 			"1"
 			{
-				"name"			"ADAM.CG PRO"
+				"name"			"Baloo-Regular"
+				"tall"			"32"
+				"additive"		"0"
+				"antialias"		"1"
+			}
+		}
+		"Neuf56"
+		{
+			"1"
+			{
+				"name"			"NeufreitExtrabold-2OLWK"
+				"tall"			"56"
+				"additive"		"0"
+				"antialias"		"1"
+			}
+		}
+		"Neuf32"
+		{
+			"1"
+			{
+				"name"			"NeufreitExtrabold-2OLWK"
+				"tall"			"32"
+				"additive"		"0"
+				"antialias"		"1"
+			}
+		}
+		"Blooms56"
+		{
+			"1"
+			{
+				"name"			"Bloomsburg DEMO"
+				"tall"			"56"
+				"additive"		"0"
+				"antialias"		"1"
+			}
+		}
+		"Blooms32"
+		{
+			"1"
+			{
+				"name"			"Bloomsburg DEMO"
 				"tall"			"32"
 				"additive"		"0"
 				"antialias"		"1"
@@ -2784,8 +2824,18 @@ Scheme
 		}
 		"12"
 		{
-			"font"	"resource/fonts/ADAM.CG PRO.otf"
-			"name"	"ADAM.CGPRO"
+			"font"	"resource/fonts/Bloomsburg DEMO.otf"
+			"name"	"Bloomsburg"
+		}
+		"13"
+		{
+			"font"	"resource/fonts/Baloo-Regular.ttf"
+			"name"	"Baloo Regular"
+		}
+		"14"
+		{
+			"font"	"resource/fonts/NeufreitExtrabold-2OLWK.otf"
+			"name"	"Neufreit ExtraBold"
 		}
 	}
 }

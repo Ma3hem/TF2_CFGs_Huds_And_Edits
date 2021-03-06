@@ -18,7 +18,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"			"AmmoInClip"
-		"font"				"SpaceG56" //Cerbetica56
+		"font"				"SpaceG56" //Cerbetica56 SpaceG56
 		"font_minmode"		"SpaceG32" //Cerbetica32
 		"fgcolor"			"Ammo In Clip"
 		"xpos"				"0"
