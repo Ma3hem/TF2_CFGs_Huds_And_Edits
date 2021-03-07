@@ -10,7 +10,7 @@
 		"ypos_minmode"		"c55"
 		"zpos"				"2"
 		"wide"				"120"
-		"tall"				"8"
+		"tall"				"2" //8
 		"tall_minmode"		"5"
 		"autoResize"		"0"
 		"pinCorner"			"0"

@@ -9,7 +9,7 @@
 		"ypos_minmode"		"9999"
 		"zpos"				"3"
 		"wide"				"80"
-		"tall"				"8"
+		"tall"				"8" //8
 		"autoResize"		"1"
 		"pinCorner"			"2"
 		"visible"			"1"
@@ -32,7 +32,7 @@
 		"ypos_minmode"		"35"
 		"zpos"				"2"
 		"wide"				"120"
-		"tall"				"8"
+		"tall"				"2" //8
 		"tall_minmode"		"5"
 		"autoResize"		"0"
 		"pinCorner"			"0"
@@ -75,7 +75,8 @@
 			"textAlignment"		"center"
 			"dulltext"			"0"
 			"brighttext"		"0"
-			"font"				"Cerbetica28"
+			"font"				"Merri24"
+			"fgcolor"			"255 255 255 255"
 			"font_minmode"		"Cerbetica20"
 		}
 		"NumPipesLabelDropshadow"
@@ -97,9 +98,9 @@
 			"textAlignment"		"center"
 			"dulltext"			"0"
 			"brighttext"		"0"
-			"font"				"Cerbetica28"
+			"font"				"Merri24"
 			"font_minmode"		"Cerbetica20"
-			"fgcolor"			"TransparentBlack"
+			"fgcolor"			"AmmoHPShadow"
 			"pin_to_sibling"	"NumPipesLabel"
 		}
 

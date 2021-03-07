@@ -18,7 +18,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"			"AmmoInClip"
-		"font"				"SpaceG56" //Cerbetica56 SpaceG56
+		"font"				"Merri56" //Cerbetica56 SpaceG56
 		"font_minmode"		"SpaceG32" //Cerbetica32
 		"fgcolor"			"Ammo In Clip"
 		"xpos"				"0"
@@ -35,9 +35,9 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"			"AmmoInClipShadow"
-		"font"				"SpaceG56"
+		"font"				"Merri56"
 		"font_minmode"		"SpaceG32"
-		"fgcolor"			"TransparentBlack"
+		"fgcolor"			"AmmoHPShadow"
 		"xpos"				"-2"
 		"ypos"				"-2"
 		"zpos"				"5"
@@ -54,14 +54,14 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"			"AmmoInReserve"
-		"font"				"SpaceG32"
+		"font"				"Merri32"
 		"font_minmode"		"Cerbetica20"
-		"fgcolor"			"Ammo In Reserve"
+		"fgcolor"			"Ammo In Reserve" 
 		"xpos"				"-65"
-		"ypos"				"0"
+		"ypos"				"-10" //0
 		"zpos"				"7"
 		"wide"				"f0"
-		"tall"				"50"
+		"tall"				"50" //50
 		"visible"			"0"
 		"enabled"			"1"
 		"textAlignment"		"west"
@@ -72,14 +72,14 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"			"AmmoInReserveShadow"
-		"font"				"SpaceG32"
+		"font"				"Merri32"
 		"font_minmode"		"Cerbetica20"
-		"fgcolor"			"TransparentBlack"
+		"fgcolor"			"AmmoHPShadow"
 		"xpos"				"-2"
-		"ypos"				"-2"
+		"ypos"				"-2" //-2
 		"zpos"				"7"
 		"wide"				"f0"
-		"tall"				"50"
+		"tall"				"50" //50
 		"visible"			"0"
 		"enabled"			"1"
 		"textAlignment"		"west"
@@ -91,7 +91,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"			"AmmoNoClip"
-		"font"				"SpaceG56"
+		"font"				"Merri56"
 		"font_minmode"		"Cerbetica32"
 		"fgcolor"			"Ammo In Clip"
 		"xpos"				"0"
@@ -108,9 +108,9 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"			"AmmoNoClipShadow"
-		"font"				"SpaceG56"
+		"font"				"Merri56"
 		"font_minmode"		"Cerbetica32"
-		"fgcolor"			"TransparentBlack"
+		"fgcolor"			"AmmoHPShadow"
 		"xpos"				"-2"
 		"ypos"				"-2"
 		"zpos"				"4"

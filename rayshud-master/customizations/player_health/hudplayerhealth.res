@@ -77,7 +77,7 @@
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"center"
-		"font"			"SpaceG56"
+		"font"			"Merri56" //SpaceG56
 		"font_minmode"	"Cerbetica32"
 		"fgcolor"		"Health Normal"
 	}
@@ -95,9 +95,9 @@
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"center"
-		"font"			"SpaceG56"
+		"font"			"Merri56"
 		"font_minmode"	"Cerbetica32"
-		"fgcolor"		"0 0 0 200"
+		"fgcolor"		"AmmoHPShadow" //0 0 0 200
 
 		"pin_to_sibling"		"PlayerStatusHealthValue"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"

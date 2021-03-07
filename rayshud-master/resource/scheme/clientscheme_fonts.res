@@ -2,12 +2,174 @@ Scheme
 {
 	Fonts
 	{
-		// CUSTOM
+		// CUSTOM Merriweather Sans Light
+		"MerriL56"
+		{
+			"1"
+			{
+				"name"			"Merriweather Sans Light"
+				"tall"			"56"
+				"additive"		"0"
+				"antialias"		"1"
+			}
+		}
+		"MerriL32"
+		{
+			"1"
+			{
+				"name"			"Merriweather Sans Light"
+				"tall"			"32"
+				"additive"		"0"
+				"antialias"		"1"
+			}
+		}
+		"MerriL24"
+		{
+			"1"
+			{
+				"name"			"Merriweather Sans Light"
+				"tall"			"24"
+				"additive"		"0"
+				"antialias"		"1"
+			}
+		}
+		"MerriL24OL"
+		{
+			"1"
+			{
+				"name"			"Merriweather Sans Light"
+				"tall"			"24"
+				"additive"		"0"
+				"antialias"		"1"
+				"outline"		"1"
+			}
+		}
+		"Merri56"
+		{
+			"1"
+			{
+				"name"			"Merriweather Sans Bold"
+				"tall"			"56"
+				"additive"		"0"
+				"antialias"		"1"
+			}
+		}
+		"Merri32"
+		{
+			"1"
+			{
+				"name"			"Merriweather Sans Bold"
+				"tall"			"32"
+				"additive"		"0"
+				"antialias"		"1"
+			}
+		}
+		"Merri24"
+		{
+			"1"
+			{
+				"name"			"Merriweather Sans Bold"
+				"tall"			"24"
+				"additive"		"0"
+				"antialias"		"1"
+			}
+		}
+		"Merri24OL"
+		{
+			"1"
+			{
+				"name"			"Merriweather Sans Bold"
+				"tall"			"24"
+				"additive"		"0"
+				"antialias"		"1"
+				"outline"		"1"
+			}
+		}
+		"BreeB56"
+		{
+			"1"
+			{
+				"name"			"Bree-Bold"
+				"tall"			"56"
+				"additive"		"0"
+				"antialias"		"1"
+			}
+		}
+		"BreeB32"
+		{
+			"1"
+			{
+				"name"			"Bree-Bold"
+				"tall"			"32"
+				"additive"		"0"
+				"antialias"		"1"
+			}
+		}
+		"CabinB56"
+		{
+			"1"
+			{
+				"name"			"Cabin Bold"
+				"tall"			"56"
+				"additive"		"0"
+				"antialias"		"1"
+			}
+		}
+		"CabinB32"
+		{
+			"1"
+			{
+				"name"			"Cabin Bold"
+				"tall"			"32"
+				"additive"		"0"
+				"antialias"		"1"
+			}
+		}
+		"StylloB56"
+		{
+			"1"
+			{
+				"name"			"Styllo Bold"
+				"tall"			"56"
+				"additive"		"0"
+				"antialias"		"1"
+			}
+		}
+		"StylloB32"
+		{
+			"1"
+			{
+				"name"			"Styllo Bold"
+				"tall"			"32"
+				"additive"		"0"
+				"antialias"		"1"
+			}
+		}
+		"MerriReg56"
+		{
+			"1"
+			{
+				"name"			"Merriweather Sans ExtraBold"
+				"tall"			"56"
+				"additive"		"0"
+				"antialias"		"1"
+			}
+		}
+		"MerriReg32"
+		{
+			"1"
+			{
+				"name"			"Merriweather Sans ExtraBold"
+				"tall"			"32"
+				"additive"		"0"
+				"antialias"		"1"
+			}
+		}
 		"BalooReg56"
 		{
 			"1"
 			{
-				"name"			"Baloo-Regular"
+				"name"			"Baloo Regular"
 				"tall"			"56"
 				"additive"		"0"
 				"antialias"		"1"
@@ -17,7 +179,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Baloo-Regular"
+				"name"			"Baloo Regular"
 				"tall"			"32"
 				"additive"		"0"
 				"antialias"		"1"
@@ -27,7 +189,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"NeufreitExtrabold-2OLWK"
+				"name"			"Neufreit ExtraBold" //Neufreit ExtraBold
 				"tall"			"56"
 				"additive"		"0"
 				"antialias"		"1"
@@ -37,7 +199,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"NeufreitExtrabold-2OLWK"
+				"name"			"Neufreit ExtraBold"
 				"tall"			"32"
 				"additive"		"0"
 				"antialias"		"1"
@@ -47,7 +209,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Bloomsburg DEMO"
+				"name"			"Bloomsburg"
 				"tall"			"56"
 				"additive"		"0"
 				"antialias"		"1"
@@ -57,7 +219,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Bloomsburg DEMO"
+				"name"			"Bloomsburg"
 				"tall"			"32"
 				"additive"		"0"
 				"antialias"		"1"
@@ -67,7 +229,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"AltoneTrial-BoldOblique.ttf"
+				"name"			"Altone Trial Bold Oblique"
 				"tall"			"56"
 				"additive"		"0"
 				"antialias"		"1"
@@ -77,7 +239,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"AltoneTrial-BoldOblique"
+				"name"			"Altone Trial Bold Oblique"
 				"tall"			"32"
 				"additive"		"0"
 				"antialias"		"1"
@@ -2836,6 +2998,36 @@ Scheme
 		{
 			"font"	"resource/fonts/NeufreitExtrabold-2OLWK.otf"
 			"name"	"Neufreit ExtraBold"
+		}
+		"15"
+		{
+			"font"	"resource/fonts/MerriweatherSans-ExtraBold.ttf"
+			"name"	"Merriweather Sans ExtraBold"
+		}
+		"16"
+		{
+			"font"	"resource/fonts/Styllo-Bold.otf"
+			"name"	"Styllo Bold"
+		}
+		"17"
+		{
+			"font"	"resource/fonts/Cabin-Bold-TTF.ttf"
+			"name"	"Cabin Bold"
+		}
+		"18"
+		{
+			"font"	"resource/fonts/Bree Bold.otf"
+			"name"	"Bree-Bold"
+		}
+		"19"
+		{
+			"font"	"resource/fonts/MerriweatherSans-Light.ttf"
+			"name"	"Merriweather Sans Light"
+		}
+		"20"
+		{
+			"font"	"resource/fonts/MerriweatherSans-Bold.ttf"
+			"name"	"Merriweather Sans Bold"
 		}
 	}
 }
