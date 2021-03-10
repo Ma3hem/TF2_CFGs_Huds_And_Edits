@@ -165,6 +165,16 @@ Scheme
 				"antialias"		"1"
 			}
 		}
+		"BalooReg72"
+		{
+			"1"
+			{
+				"name"			"Baloo Regular"
+				"tall"			"72"
+				"additive"		"0"
+				"antialias"		"1"
+			}
+		}
 		"BalooReg56"
 		{
 			"1"
@@ -185,44 +195,36 @@ Scheme
 				"antialias"		"1"
 			}
 		}
-		"Neuf56"
+		"BalooReg24"
 		{
 			"1"
 			{
-				"name"			"Neufreit ExtraBold" //Neufreit ExtraBold
-				"tall"			"56"
+				"name"			"Baloo Regular"
+				"tall"			"24"
 				"additive"		"0"
 				"antialias"		"1"
 			}
 		}
-		"Neuf32"
+		"BalooReg24OL"
 		{
 			"1"
 			{
-				"name"			"Neufreit ExtraBold"
+				"name"			"Baloo Regular"
+				"tall"			"24"
+				"additive"		"0"
+				"antialias"		"1"
+				"outline"		"1"
+			}
+		}
+		"BalooReg32OL"
+		{
+			"1"
+			{
+				"name"			"Baloo Regular"
 				"tall"			"32"
 				"additive"		"0"
 				"antialias"		"1"
-			}
-		}
-		"Blooms56"
-		{
-			"1"
-			{
-				"name"			"Bloomsburg"
-				"tall"			"56"
-				"additive"		"0"
-				"antialias"		"1"
-			}
-		}
-		"Blooms32"
-		{
-			"1"
-			{
-				"name"			"Bloomsburg"
-				"tall"			"32"
-				"additive"		"0"
-				"antialias"		"1"
+				"outline"		"1"
 			}
 		}
 		"AltoneB56"

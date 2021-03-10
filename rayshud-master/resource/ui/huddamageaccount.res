@@ -9,8 +9,8 @@
 		"PositiveColor"			"Heal Numbers"
 		"NegativeColor"			""	// Unused
 		"delta_lifetime"		"2"
-		"delta_item_font"		"Merri24OL" //Cerbetica24Outline
-		"delta_item_font_big"	"Merri24OL"
+		"delta_item_font"		"BalooReg32OL" //Cerbetica24Outline
+		"delta_item_font_big"	"BalooReg32OL"
 	}
 
 	"DamageAccountValue"
@@ -28,7 +28,7 @@
 		"enabled"				"1"
 		"labelText"				"%metal%"
 		"textAlignment"			"center"
-		"font"					"Merri24"
+		"font"					"BalooReg24"
 		"font_minmode"			"Cerbetica20"
 		"fgcolor"				"255 255 255 255" // Las DamageHeal Info
 	}
@@ -46,7 +46,7 @@
 		"enabled"				"1"
 		"labelText"				"%metal%"
 		"textAlignment"			"center"
-		"font"					"Merri24"
+		"font"					"BalooReg24"
 		"font_minmode"			"Cerbetica20"
 		"fgcolor"				"AmmoHPShadow"
 		"pin_to_sibling"		"DamageAccountValue"

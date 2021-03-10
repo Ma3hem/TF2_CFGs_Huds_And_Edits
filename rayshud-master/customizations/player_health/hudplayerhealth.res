@@ -77,7 +77,7 @@
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"center"
-		"font"			"Merri56" //SpaceG56
+		"font"			"BalooReg72" //SpaceG56
 		"font_minmode"	"Cerbetica32"
 		"fgcolor"		"Health Normal"
 	}
@@ -95,7 +95,7 @@
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"center"
-		"font"			"Merri56"
+		"font"			"BalooReg72"
 		"font_minmode"	"Cerbetica32"
 		"fgcolor"		"AmmoHPShadow" //0 0 0 200
 

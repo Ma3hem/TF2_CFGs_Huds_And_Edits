@@ -75,7 +75,7 @@
 			"textAlignment"		"center"
 			"dulltext"			"0"
 			"brighttext"		"0"
-			"font"				"Merri24"
+			"font"				"BalooReg24"
 			"fgcolor"			"255 255 255 255"
 			"font_minmode"		"Cerbetica20"
 		}
@@ -98,7 +98,7 @@
 			"textAlignment"		"center"
 			"dulltext"			"0"
 			"brighttext"		"0"
-			"font"				"Merri24"
+			"font"				"BalooReg24"
 			"font_minmode"		"Cerbetica20"
 			"fgcolor"			"AmmoHPShadow"
 			"pin_to_sibling"	"NumPipesLabel"
