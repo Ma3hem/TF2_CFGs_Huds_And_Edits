@@ -54,8 +54,8 @@
 				"paintbackground"	"0"
 
 				"defaultFgColor_override"	"235 226 202 255"
-				"armedFgColor_override"		"72 255 255 255"
-				"depressedFgColor_override" "72 255 255 255"
+				"armedFgColor_override"		"70 255 145 255"
+				"depressedFgColor_override" "70 255 145 255"
 			}
 		}
 
@@ -176,17 +176,17 @@
 	{
 		"ControlName"	"CExImageButton"
 		"fieldName"		"HudName"
-		"xpos"			"40"
-		"ypos"			"58"
+		"xpos"			"100" //40
+		"ypos"			"25" //58
 		"zpos"			"1"
-		"wide"			"56"
+		"wide"			"170" //56
 		"tall"			"25"
 		"autoResize"	"0"
 		"pinCorner"		"3"
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"	"0"
-		"labelText"		"rayshud"
+		"labelText"		"rayshudEDIT"
 		"font"			"HudFontMediumSecondary"
 		"textAlignment"	"west"
 		"textinsetx"	"0"
@@ -199,11 +199,11 @@
 		"sound_released"	"UI/wooo_tree.wav"
 
 		"defaultFgColor_override" "235 226 202 255"
-		"armedFgColor_override" "72 255 255 255"
-		"depressedFgColor_override" "72 255 255 255"
+		"armedFgColor_override" "70 255 145 255" //72 255 255 255
+		"depressedFgColor_override" "70 255 145 255"
 
 		"image_drawcolor"	"235 226 202 255"
-		"image_armedcolor"	"72 255 255 255"
+		"image_armedcolor"	"70 255 145 255"
 	}
 
 	"TFLogoImage"
@@ -264,7 +264,7 @@
 		"sound_released"	"UI/buttonclickrelease.wav"
 		
 		"defaultFgColor_override" 	"235 226 202 255"
-		"armedFgColor_override" 	"72 255 255 255"
+		"armedFgColor_override" 	"70 255 145 255"
 		"depressedFgColor_override" "235 226 202 255"
 	}
 
@@ -367,7 +367,7 @@
 		"tall"					"50"
 		"visible"				"0"
 		"PaintBackgroundType"	"2"
-		"border"				"CyanBorderThick"
+		"border"				"70 255 145 255" //CyanBorderThick
 
 		"TipSubLabel"
 		{
@@ -453,7 +453,7 @@
 			"sound_released"	"UI/buttonclickrelease.wav"
 
 			"defaultFgColor_override"	"235 226 202 255"
-			"armedFgColor_override"		"72 255 255 255"
+			"armedFgColor_override"		"70 255 145 255"
 		}
 	}
 
@@ -498,7 +498,7 @@
 			"sound_released"	"UI/buttonclickrelease.wav"
 
 			"defaultFgColor_override"	"235 226 202 255"
-			"armedFgColor_override"		"72 255 255 255"
+			"armedFgColor_override"		"70 255 145 255"
 		}
 	}
 
@@ -543,7 +543,7 @@
 			"sound_released"	"UI/buttonclickrelease.wav"
 
 			"defaultFgColor_override"	"235 226 202 255"
-			"armedFgColor_override"		"72 255 255 255"
+			"armedFgColor_override"		"70 255 145 255"
 		}
 	}
 
@@ -582,7 +582,7 @@
 			"sound_released"	"UI/buttonclickrelease.wav"
 
 			"defaultFgColor_override"	"235 226 202 255"
-			"armedFgColor_override"		"72 255 255 255"
+			"armedFgColor_override"		"70 255 145 255"
 		}
 	}
 
@@ -1157,10 +1157,10 @@
 	{
 		"ControlName"	"CExImageButton"
 		"fieldName"		"CharacterSetupButton"
-		"xpos"			"30"
+		"xpos"			"130" //30
 		"ypos"			"82"
 		"zpos"			"11"
-		"wide"			"260"
+		"wide"			"60" //260
 		"tall"			"18"
 		"visible"		"1"
 		"enabled"		"1"
@@ -1176,20 +1176,20 @@
 		"border_armed"		"MainMenuTabs"
 
 		"defaultFgColor_override" 	"TanLight"
-		"armedFgColor_override" 	"ColorCyan"
+		"armedFgColor_override" 	"70 255 145 255" //ColorCyan
 
 		"defaultBgColor_override" 	"Transparent"
-		"armedBgColor_override" 	"25 25 25 148"
+		"armedBgColor_override" 	"80 80 80 148" //25 25 25 148
 	}
 
 	"GeneralStoreButton"
 	{
 		"ControlName"	"CExImageButton"
 		"fieldName"		"GeneralStoreButton"
-		"xpos"			"30"
+		"xpos"			"90" //30
 		"ypos"			"102"
 		"zpos"			"11"
-		"wide"			"260"
+		"wide"			"130" //260
 		"tall"			"18"
 		"visible"		"1"
 		"enabled"		"1"
@@ -1205,20 +1205,20 @@
 		"border_armed"		"MainMenuTabs"
 
 		"defaultFgColor_override" 	"TanLight"
-		"armedFgColor_override" 	"ColorCyan"
+		"armedFgColor_override" 	"70 255 145 255"
 
 		"defaultBgColor_override" 	"Transparent"
-		"armedBgColor_override" 	"25 25 25 148"
+		"armedBgColor_override" 	"80 80 80 148" //25 25 25 148
 	}
 
 	"SteamWorkshopButton"
 	{
 		"ControlName"	"CExImageButton"
 		"fieldName"		"SteamWorkshopButton"
-		"xpos"			"30"
+		"xpos"			"110" //30
 		"ypos"			"122"
 		"zpos"			"11"
-		"wide"			"260"
+		"wide"			"90" //260
 		"tall"			"18"
 		"visible"		"1"
 		"enabled"		"1"
@@ -1235,20 +1235,20 @@
 		"border_armed"		"MainMenuTabs"
 
 		"defaultFgColor_override" 	"TanLight"
-		"armedFgColor_override" 	"ColorCyan"
+		"armedFgColor_override" 	"70 255 145 255"
 
 		"defaultBgColor_override" 	"Transparent"
-		"armedBgColor_override" 	"25 25 25 148"
+		"armedBgColor_override" 	"80 80 80 148" //25 25 25 148
 	}
 
 	"SettingButton"
 	{
 		"ControlName"	"CExImageButton"
 		"fieldName"		"SettingButton"
-		"xpos"			"30"
+		"xpos"			"120" //30
 		"ypos"			"142"
 		"zpos"			"11"
-		"wide"			"260"
+		"wide"			"75" //260
 		"tall"			"18"
 		"visible"		"1"
 		"enabled"		"1"
@@ -1265,20 +1265,20 @@
 		"border_armed"		"MainMenuTabs"
 
 		"defaultFgColor_override" 	"TanLight"
-		"armedFgColor_override" 	"ColorCyan"
+		"armedFgColor_override" 	"70 255 145 255"
 
 		"defaultBgColor_override" 	"Transparent"
-		"armedBgColor_override" 	"25 25 25 148"
+		"armedBgColor_override" 	"80 80 80 148" //25 25 25 148
 	}
 
 	"AdvSettingsButton"
 	{
 		"ControlName"	"CExImageButton"
 		"fieldName"		"AdvSettingsButton"
-		"xpos"			"30"
+		"xpos"			"85" //30
 		"ypos"			"162"
 		"zpos"			"11"
-		"wide"			"260"
+		"wide"			"150" //260
 		"tall"			"18"
 		"visible"		"1"
 		"enabled"		"1"
@@ -1295,20 +1295,20 @@
 		"border_armed"		"MainMenuTabs"
 
 		"defaultFgColor_override" 	"TanLight"
-		"armedFgColor_override" 	"ColorCyan"
+		"armedFgColor_override" 	"70 255 145 255"
 
 		"defaultBgColor_override" 	"Transparent"
-		"armedBgColor_override" 	"25 25 25 148"
+		"armedBgColor_override" 	"80 80 80 148" //25 25 25 148
 	}
 
 	"MinmodeToggle"
 	{
 		"ControlName"	"CExImageButton"
 		"fieldName"		"MinmodeToggle"
-		"xpos"			"30"
+		"xpos"			"90" //30
 		"ypos"			"182"
 		"zpos"			"11"
-		"wide"			"260"
+		"wide"			"140" //260
 		"tall"			"18"
 		"visible"		"1"
 		"enabled"		"1"
@@ -1325,10 +1325,10 @@
 		"border_armed"		"MainMenuTabs"
 
 		"defaultFgColor_override" 	"TanLight"
-		"armedFgColor_override" 	"ColorCyan"
+		"armedFgColor_override" 	"70 255 145 255"
 
 		"defaultBgColor_override" 	"Transparent"
-		"armedBgColor_override" 	"25 25 25 148"
+		"armedBgColor_override" 	"80 80 80 148" //25 25 25 148
 	}
 
 	"AchievementsButton"
@@ -1366,7 +1366,7 @@
 			"sound_released"	"UI/buttonclickrelease.wav"
 
 			"defaultFgColor_override"	"235 226 202 255"
-			"armedFgColor_override"		"72 255 255 255"
+			"armedFgColor_override"		"70 255 145 255"
 		}
 	}
 
@@ -1409,7 +1409,7 @@
 			"sound_released"	"UI/buttonclickrelease.wav"
 
 			"defaultFgColor_override"	"235 226 202 255"
-			"armedFgColor_override"		"72 255 255 255"
+			"armedFgColor_override"		"70 255 145 255"
 		}
 	}
 
@@ -1452,7 +1452,7 @@
 			"sound_released"	"UI/buttonclickrelease.wav"
 
 			"defaultFgColor_override"	"235 226 202 255"
-			"armedFgColor_override"		"72 255 255 255"
+			"armedFgColor_override"		"70 255 145 255"
 		}
 	}
 
@@ -1495,7 +1495,7 @@
 			"sound_released"	"UI/buttonclickrelease.wav"
 
 			"defaultFgColor_override"	"235 226 202 255"
-			"armedFgColor_override"		"72 255 255 255"
+			"armedFgColor_override"		"70 255 145 255"
 		}
 	}
 
@@ -1538,7 +1538,7 @@
 			"sound_released"	"UI/buttonclickrelease.wav"
 
 			"defaultFgColor_override"	"235 226 202 255"
-			"armedFgColor_override"		"72 255 255 255"
+			"armedFgColor_override"		"70 255 145 255"
 		}
 	}
 
@@ -1581,7 +1581,7 @@
 			"sound_released"	"UI/buttonclickrelease.wav"
 
 			"defaultFgColor_override"	"235 226 202 255"
-			"armedFgColor_override"		"72 255 255 255"
+			"armedFgColor_override"		"70 255 145 255"
 		}
 	}
 
@@ -1624,7 +1624,7 @@
 			"sound_released"	"UI/buttonclickrelease.wav"
 
 			"defaultFgColor_override"	"235 226 202 255"
-			"armedFgColor_override"		"72 255 255 255"
+			"armedFgColor_override"		"70 255 145 255"
 		}
 	}
 
@@ -1667,7 +1667,7 @@
 			"sound_released"	"UI/buttonclickrelease.wav"
 
 			"defaultFgColor_override"	"235 226 202 255"
-			"armedFgColor_override"		"72 255 255 255"
+			"armedFgColor_override"		"70 255 145 255"
 		}
 	}
 
@@ -1710,7 +1710,7 @@
 			"sound_released"	"UI/buttonclickrelease.wav"
 
 			"defaultFgColor_override"	"235 226 202 255"
-			"armedFgColor_override"		"72 255 255 255"
+			"armedFgColor_override"		"70 255 145 255"
 		}
 	}
 

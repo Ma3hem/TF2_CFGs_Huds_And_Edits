@@ -31,9 +31,9 @@ WeaponData
 	"bucket"		"0"
 	"bucket_position"	"0"	
 
-	"ExplosionEffect"		"Explosions_MA_Flash_1" //electrocuted_red_flash , ghost_flash , ghost_smoke , teleported_flash , sapper_flash , sapper_flashup , sapper_flyingembers , rd_robot_explosion , ExplosionCore_sapperdestroyed
-	"ExplosionPlayerEffect"		"Explosions_MA_Flash_1" //lowV_blood_impact_red_01, sapper_flash, sapper_debris, halloween_ghost_flash, stickybomb_pulse_blue, pipebombtrail_blue, impact_metal_child_glowLarge, electrocuted_blue
-	"ExplosionWaterEffect"		"Explosions_MA_Flash_1" //Explosions_MA_Flashup, Explosions_MA_Flash_1
+	"ExplosionEffect"		"halloween_ghost_flash" //electrocuted_red_flash , ghost_flash , ghost_smoke , teleported_flash , sapper_flash , sapper_flashup , sapper_flyingembers , rd_robot_explosion , ExplosionCore_sapperdestroyed
+	"ExplosionPlayerEffect"		"halloween_ghost_flash" //lowV_blood_impact_red_01, sapper_flash, sapper_debris, halloween_ghost_flash, stickybomb_pulse_blue, pipebombtrail_blue, impact_metal_child_glowLarge, electrocuted_blue
+	"ExplosionWaterEffect"		"halloween_ghost_flash" //Explosions_MA_Flashup, Explosions_MA_Flash_1
 	"ExplosionSound"		"BaseExplosionEffect.Sound"
 
 	// Animation.

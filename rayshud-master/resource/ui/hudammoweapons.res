@@ -18,7 +18,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"			"AmmoInClip"
-		"font"				"BalooReg72" //Cerbetica56 SpaceG56 Merri56
+		"font"				"Merri56" //Cerbetica56 SpaceG56 Merri56
 		"font_minmode"		"SpaceG32" //Cerbetica32
 		"fgcolor"			"Ammo In Clip"
 		"xpos"				"0"
@@ -31,11 +31,28 @@
 		"textAlignment"		"east"
 		"labelText"			"%Ammo%"
 	}
+	"AmmoInClip2"
+	{
+		"ControlName"		"CExLabel"
+		"fieldName"			"AmmoInClip2"
+		"font"				"Merri56" //Cerbetica56 SpaceG56 Merri56
+		"font_minmode"		"SpaceG32" //Cerbetica32
+		"fgcolor"			"150 150 150 255"
+		"xpos"				"1"
+		"ypos"				"1"
+		"zpos"				"5"
+		"wide"				"60"
+		"tall"				"50"
+		"visible"			"1"
+		"enabled"			"1"
+		"textAlignment"		"east"
+		"labelText"			"%Ammo%"
+	}
 	"AmmoInClipShadow"
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"			"AmmoInClipShadow"
-		"font"				"BalooReg72"
+		"font"				"Merri56"
 		"font_minmode"		"SpaceG32"
 		"fgcolor"			"AmmoHPShadow"
 		"xpos"				"-2"
@@ -54,7 +71,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"			"AmmoInReserve"
-		"font"				"BalooReg32"
+		"font"				"Merri24"
 		"font_minmode"		"Cerbetica20"
 		"fgcolor"			"Ammo In Reserve" 
 		"xpos"				"-65"
@@ -68,11 +85,29 @@
 		"labelText"			"%AmmoInReserve%"
 		"pin_to_sibling"	"AmmoInClip"
 	}
+	"AmmoInReserve2"
+	{
+		"ControlName"		"CExLabel"
+		"fieldName"			"AmmoInReserve2"
+		"font"				"Merri24"
+		"font_minmode"		"Cerbetica20"
+		"fgcolor"			"150 150 150 255" 
+		"xpos"				"-66"
+		"ypos"				"-11" //0
+		"zpos"				"7"
+		"wide"				"f0"
+		"tall"				"50" //50
+		"visible"			"1"
+		"enabled"			"1"
+		"textAlignment"		"west"
+		"labelText"			"%AmmoInReserve%"
+		"pin_to_sibling"	"AmmoInClip"
+	}
 	"AmmoInReserveShadow"
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"			"AmmoInReserveShadow"
-		"font"				"BalooReg32"
+		"font"				"Merri24"
 		"font_minmode"		"Cerbetica20"
 		"fgcolor"			"AmmoHPShadow"
 		"xpos"				"-2"
@@ -91,7 +126,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"			"AmmoNoClip"
-		"font"				"BalooReg72"
+		"font"				"Merri56"
 		"font_minmode"		"Cerbetica32"
 		"fgcolor"			"Ammo In Clip"
 		"xpos"				"0"
@@ -108,7 +143,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"			"AmmoNoClipShadow"
-		"font"				"BalooReg72"
+		"font"				"Merri56"
 		"font_minmode"		"Cerbetica32"
 		"fgcolor"			"AmmoHPShadow"
 		"xpos"				"-2"

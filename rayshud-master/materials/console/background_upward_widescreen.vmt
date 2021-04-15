@@ -1,10 +1,19 @@
 "UnlitGeneric"
 {
-	"$baseTexture" "console/backgrounds/background_modern_widescreen"
+	"$translucent" 1
+	"$baseTexture" "console\backgrounds\menugif"
 	"$vertexcolor" 1
-	"$vertexalpha" 1
+	"$no_fullbright" 1
 	"$ignorez" 1
-	"$no_fullbright" "1"
-	"$nolod" "1"
 	"%keywords" "tf"
+	
+	"Proxies"
+		{
+			"AnimatedTexture"
+			{
+				"animatedtexturevar" "$basetexture"
+				"animatedtextureframenumvar" "$frame"
+				"animatedtextureframerate" 40
+			}
+		}
 }

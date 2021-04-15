@@ -1361,7 +1361,7 @@
 		{
 			"ControlName"	"Label"
 			"fieldName"		"OverallRecord1Label"
-			"font"			"HudFontSmallest"
+			"font"			"HudFontSmallest8"
 			"labelText"		"%classrecord1label%"
 			"textAlignment"	"west"
 			"xpos"			"c+128"
@@ -1378,7 +1378,7 @@
 		{
 			"ControlName"	"Label"
 			"fieldName"		"OverallRecord1Value"
-			"font"			"HudFontSmallest"
+			"font"			"HudFontSmallest8"
 			"labelText"		"%classrecord1value%"
 			"textAlignment"	"west"
 			"xpos"			"c+210"
@@ -1395,7 +1395,7 @@
 		{
 			"ControlName"	"Label"
 			"fieldName"		"OverallRecord2Label"
-			"font"			"HudFontSmallest"
+			"font"			"HudFontSmallest8"
 			"labelText"		"%classrecord2label%"
 			"textAlignment"	"west"
 			"xpos"			"c+128"
@@ -1412,7 +1412,7 @@
 		{
 			"ControlName"	"Label"
 			"fieldName"		"OverallRecord2Value"
-			"font"			"HudFontSmallest"
+			"font"			"HudFontSmallest8"
 			"labelText"		"%classrecord2value%"
 			"textAlignment"	"west"
 			"xpos"			"c+210"
@@ -1429,7 +1429,7 @@
 		{
 			"ControlName"	"Label"
 			"fieldName"		"OverallRecord3Label"
-			"font"			"HudFontSmallest"
+			"font"			"HudFontSmallest8"
 			"labelText"		"%classrecord3label%"
 			"textAlignment"	"west"
 			"xpos"			"c+128"
@@ -1446,7 +1446,7 @@
 		{
 			"ControlName"	"Label"
 			"fieldName"		"OverallRecord3Value"
-			"font"			"HudFontSmallest"
+			"font"			"HudFontSmallest8"
 			"labelText"		"%classrecord3value%"
 			"textAlignment"	"west"
 			"xpos"			"c+210"
@@ -1463,7 +1463,7 @@
 		{
 			"ControlName"	"Label"
 			"fieldName"		"OverallRecord4Label"
-			"font"			"HudFontSmallest"
+			"font"			"HudFontSmallest8"
 			"labelText"		"%classrecord4label%"
 			"textAlignment"	"west"
 			"xpos"			"c+128"
@@ -1480,7 +1480,7 @@
 		{
 			"ControlName"	"Label"
 			"fieldName"		"OverallRecord4Value"
-			"font"			"HudFontSmallest"
+			"font"			"HudFontSmallest8"
 			"labelText"		"%classrecord4value%"
 			"textAlignment"	"west"
 			"xpos"			"c+210"
@@ -1497,7 +1497,7 @@
 		{
 			"ControlName"	"Label"
 			"fieldName"		"OverallRecord5Label"
-			"font"			"HudFontSmallest"
+			"font"			"HudFontSmallest8"
 			"labelText"		"%classrecord5label%"
 			"textAlignment"	"west"
 			"xpos"			"c+128"
@@ -1514,7 +1514,7 @@
 		{
 			"ControlName"	"Label"
 			"fieldName"		"OverallRecord5Value"
-			"font"			"HudFontSmallest"
+			"font"			"HudFontSmallest8"
 			"labelText"		"%classrecord5value%"
 			"textAlignment"	"west"
 			"xpos"			"c+210"
@@ -1531,7 +1531,7 @@
 		{
 			"ControlName"	"Label"
 			"fieldName"		"OverallRecord6Label"
-			"font"			"HudFontSmallest"
+			"font"			"HudFontSmallest8"
 			"labelText"		"%classrecord6label%"
 			"textAlignment"	"west"
 			"xpos"			"c+128"
@@ -1548,7 +1548,7 @@
 		{
 			"ControlName"	"Label"
 			"fieldName"		"OverallRecord6Value"
-			"font"			"HudFontSmallest"
+			"font"			"HudFontSmallest8"
 			"labelText"		"%classrecord6value%"
 			"textAlignment"	"west"
 			"xpos"			"c+210"
@@ -1565,7 +1565,7 @@
 		{
 			"ControlName"	"Label"
 			"fieldName"		"OverallRecord7Label"
-			"font"			"HudFontSmallest"
+			"font"			"HudFontSmallest8"
 			"labelText"		"%classrecord7label%"
 			"textAlignment"	"west"
 			"xpos"			"c+128"
@@ -1582,7 +1582,7 @@
 		{
 			"ControlName"	"Label"
 			"fieldName"		"OverallRecord7Value"
-			"font"			"HudFontSmallest"
+			"font"			"HudFontSmallest8"
 			"labelText"		"%classrecord7value%"
 			"textAlignment"	"west"
 			"xpos"			"c+210"
@@ -1599,7 +1599,7 @@
 		{
 			"ControlName"	"Label"
 			"fieldName"		"OverallRecord8Label"
-			"font"			"HudFontSmallest"
+			"font"			"HudFontSmallest8"
 			"labelText"		"%classrecord8label%"
 			"textAlignment"	"west"
 			"xpos"			"c+128"
@@ -1616,7 +1616,7 @@
 		{
 			"ControlName"	"Label"
 			"fieldName"		"OverallRecord8Value"
-			"font"			"HudFontSmallest"
+			"font"			"HudFontSmallest8"
 			"labelText"		"%classrecord8value%"
 			"textAlignment"	"west"
 			"xpos"			"c+210"
@@ -1633,7 +1633,7 @@
 		{
 			"ControlName"	"Label"
 			"fieldName"		"OverallRecord9Label"
-			"font"			"HudFontSmallest"
+			"font"			"HudFontSmallest8"
 			"labelText"		"%classrecord9label%"
 			"textAlignment"	"west"
 			"xpos"			"c+128"
@@ -1650,7 +1650,7 @@
 		{
 			"ControlName"	"Label"
 			"fieldName"		"OverallRecord9Value"
-			"font"			"HudFontSmallest"
+			"font"			"HudFontSmallest8"
 			"labelText"		"%classrecord9value%"
 			"textAlignment"	"west"
 			"xpos"			"c+210"
@@ -1667,7 +1667,7 @@
 		{
 			"ControlName"	"Label"
 			"fieldName"		"OverallRecord10Label"
-			"font"			"HudFontSmallest"
+			"font"			"HudFontSmallest8"
 			"labelText"		"%classrecord10label%"
 			"textAlignment"	"west"
 			"xpos"			"c+128"
@@ -1684,7 +1684,7 @@
 		{
 			"ControlName"	"Label"
 			"fieldName"		"OverallRecord10Value"
-			"font"			"HudFontSmallest"
+			"font"			"HudFontSmallest8"
 			"labelText"		"%classrecord10value%"
 			"textAlignment"	"west"
 			"xpos"			"c+210"
@@ -1701,7 +1701,7 @@
 		{
 			"ControlName"	"Label"
 			"fieldName"		"OverallRecord11Label"
-			"font"			"HudFontSmallest"
+			"font"			"HudFontSmallest8"
 			"labelText"		"%classrecord11label%"
 			"textAlignment"	"west"
 			"xpos"			"c+128"
@@ -1718,7 +1718,7 @@
 		{
 			"ControlName"	"Label"
 			"fieldName"		"OverallRecord11Value"
-			"font"			"HudFontSmallest"
+			"font"			"HudFontSmallest8"
 			"labelText"		"%classrecord11value%"
 			"textAlignment"	"west"
 			"xpos"			"c+210"
@@ -1735,7 +1735,7 @@
 		{
 			"ControlName"	"Label"
 			"fieldName"		"OverallRecord12Label"
-			"font"			"HudFontSmallest"
+			"font"			"HudFontSmallest8"
 			"labelText"		"%classrecord12label%"
 			"textAlignment"	"west"
 			"xpos"			"c+128"
@@ -1752,7 +1752,7 @@
 		{
 			"ControlName"	"Label"
 			"fieldName"		"OverallRecord12Value"
-			"font"			"HudFontSmallest"
+			"font"			"HudFontSmallest8"
 			"labelText"		"%classrecord12value%"
 			"textAlignment"	"west"
 			"xpos"			"c+210"
@@ -1769,7 +1769,7 @@
 		{
 			"ControlName"	"Label"
 			"fieldName"		"OverallRecord13Label"
-			"font"			"HudFontSmallest"
+			"font"			"HudFontSmallest8"
 			"labelText"		"%classrecord13label%"
 			"textAlignment"	"west"
 			"xpos"			"c+128"
@@ -1786,7 +1786,7 @@
 		{
 			"ControlName"	"Label"
 			"fieldName"		"OverallRecord13Value"
-			"font"			"HudFontSmallest"
+			"font"			"HudFontSmallest8"
 			"labelText"		"%classrecord13value%"
 			"textAlignment"	"west"
 			"xpos"			"c+210"
@@ -1803,7 +1803,7 @@
 		{
 			"ControlName"	"Label"
 			"fieldName"		"OverallRecord14Label"
-			"font"			"HudFontSmallest"
+			"font"			"HudFontSmallest8"
 			"labelText"		"%classrecord14label%"
 			"textAlignment"	"west"
 			"xpos"			"c+128"
@@ -1820,7 +1820,7 @@
 		{
 			"ControlName"	"Label"
 			"fieldName"		"OverallRecord14Value"
-			"font"			"HudFontSmallest"
+			"font"			"HudFontSmallest8"
 			"labelText"		"%classrecord14value%"
 			"textAlignment"	"west"
 			"xpos"			"c+210"
@@ -1837,7 +1837,7 @@
 		{
 			"ControlName"	"Label"
 			"fieldName"		"OverallRecord15Label"
-			"font"			"HudFontSmallest"
+			"font"			"HudFontSmallest8"
 			"labelText"		"%classrecord15label%"
 			"textAlignment"	"west"
 			"xpos"			"c+128"
@@ -1854,7 +1854,7 @@
 		{
 			"ControlName"	"Label"
 			"fieldName"		"OverallRecord15Value"
-			"font"			"HudFontSmallest"
+			"font"			"HudFontSmallest8" //HudFontSmallest8
 			"labelText"		"%classrecord15value%"
 			"textAlignment"	"west"
 			"xpos"			"c+210"
@@ -1887,7 +1887,7 @@
 	{
 		"ControlName"	"Label"
 		"fieldName"		"TipText"
-		"font"			"HudFontSmallest"
+		"font"			"HudFontSmallest8"
 		"labelText"		"%tiptext%"
 		"textAlignment"	"west"
 		"xpos"			"c-285"

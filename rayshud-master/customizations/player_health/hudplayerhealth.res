@@ -77,17 +77,18 @@
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"center"
-		"font"			"BalooReg72" //SpaceG56
+		"font"			"Merri56" //SpaceG56
 		"font_minmode"	"Cerbetica32"
 		"fgcolor"		"Health Normal"
 	}
 
-	"PlayerStatusHealthValueShadow"
+	//Can change to PlayerStatusHealthValue to PlayerStatusHealthValue2 to have different layers
+	"PlayerStatusHealthValueShadow2"
 	{
 		"ControlName"	"CExLabel"
-		"fieldName"		"PlayerStatusHealthValueShadow"
-		"xpos"			"-2"
-		"ypos"			"-2"
+		"fieldName"		"PlayerStatusHealthValue2"
+		"xpos"			"1"
+		"ypos"			"1"
 		"zpos"			"5"
 		"wide"			"300"
 		"tall"			"100"
@@ -95,7 +96,25 @@
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"center"
-		"font"			"BalooReg72"
+		"font"			"Merri56" //SpaceG56
+		"font_minmode"	"Cerbetica32"
+		"fgcolor"		"150 150 150 255"
+	}
+
+	"PlayerStatusHealthValueShadow"
+	{
+		"ControlName"	"CExLabel"
+		"fieldName"		"PlayerStatusHealthValueShadow"
+		"xpos"			"-2" //-2
+		"ypos"			"-2" //-2
+		"zpos"			"5"
+		"wide"			"300"
+		"tall"			"100"
+		"visible"		"1"
+		"enabled"		"1"
+		"labelText"		"%Health%"
+		"textAlignment"	"center"
+		"font"			"Merri56"
 		"font_minmode"	"Cerbetica32"
 		"fgcolor"		"AmmoHPShadow" //0 0 0 200
 

@@ -10,6 +10,7 @@ Scheme
 		// HUD COLORS
 		//---------------------------------------------
 		"Yellow"					"169 123 53 255"
+		"Mint"						"70 255 145 255"
 		"White"						"242 242 242 255"
 		"DullWhite"					"132 132 132 255"
 		"DarkGrey"					"27 27 27 255"
@@ -63,15 +64,15 @@ Scheme
 		Button.TextColor				"White"
 		Button.BgColor					"Black"
 		Button.ArmedTextColor			"White"
-		Button.ArmedBgColor				"Yellow"
+		Button.ArmedBgColor				"Mint"
 		Button.DepressedTextColor		"White"
-		Button.DepressedBgColor			"Yellow"
+		Button.DepressedBgColor			"Mint"
 		Button.FocusBorderColor			"Blank"
 
 		CheckButton.TextColor			"DullWhite"
 		CheckButton.SelectedTextColor	"White"
 		CheckButton.BgColor				"Black"
-		CheckButton.HighlightFgColor	"Yellow"
+		CheckButton.HighlightFgColor	"Mint"
 		CheckButton.ArmedBgColor		"Blank"
 		CheckButton.DepressedBgColor	"Blank"
 		CheckButton.Border1  			"Border.Dark"
@@ -90,13 +91,13 @@ Scheme
 		RadioButton.SelectedTextColor	"White"
 		RadioButton.ArmedTextColor		"TFTextMedium"
 
-		Frame.BgColor					"DarkGrey"
-		Frame.OutOfFocusBgColor			"DarkGrey"
-		FrameGrip.Color1				"TFTanMedium"
+		Frame.BgColor					"50 50 50 225" //DarkGrey
+		Frame.OutOfFocusBgColor			"DarkGrey" //DarkGrey
+		FrameGrip.Color1				"70 255 145 255" //TFTanMedium
 		FrameGrip.Color2				"White"
 		FrameTitleButton.FgColor		"White"
 		FrameTitleBar.Font				"UiBold"
-		FrameTitleBar.TextColor			"White"
+		FrameTitleBar.TextColor			"70 255 145 255" //White
 		FrameTitleBar.DisabledTextColor	"DullWhite"
 
 		Label.TextDullColor				"DullWhite"
@@ -133,13 +134,13 @@ Scheme
 		ScrollBarSlider.BgColor				"Black"
 		ScrollBarSlider.FgColor				"White"
 
-		Slider.NobColor						"TFTanLight"
+		Slider.NobColor						"70 255 145 255" //TFTanLight
 		Slider.TextColor					"White"
 		Slider.TrackColor					"HudBlack"
 		Slider.DisabledTextColor1			"TFTextMediumDark"
 		Slider.DisabledTextColor2			"Blank"
 
-		TextEntry.TextColor					"White"
+		TextEntry.TextColor					"White" //White
 		TextEntry.DisabledTextColor	        "DullWhite"
 		TextEntry.SelectedBgColor			"White"
 	}
