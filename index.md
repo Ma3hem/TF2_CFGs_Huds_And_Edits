@@ -1,6 +1,6 @@
 <html>
 	<head>
-    	<link rel="stylesheet" href="styles.css">
+    	<link rel="stylesheet" href="assets/css/style.css">
   	</head>
   	<body>
   		<div id="blurbox" class="btnhov">
