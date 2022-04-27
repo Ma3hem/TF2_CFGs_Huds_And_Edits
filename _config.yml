@@ -1,7 +1,7 @@
 theme: jekyll-theme-cayman
 title: "Welcome to Ma3's Reprository of Huds and Configs(And future software)."
 header_pages:
-  - index.html
-  - huds.html
-  - configs.html
+  - index.md
+  - huds.md
+  - configs.md
 description: "Under Construction"
